@@ -25,7 +25,7 @@ After that, you need to run the game itself with the file SEABATTLE.ehe, call a 
 Developers
 --------------------
 In the development of this chic game involved:
-+ [**Alexandr Pankratiew**](https://vk.com/sasha_pankratiew)
++ [**Pankratiew Alexandr**](https://vk.com/sasha_pankratiew)
 + [**Holubeu Kiryl**](https://vk.com/smertowing)
 + [**Pilinko Nikita**](https://vk.com/mineralsfree)
 

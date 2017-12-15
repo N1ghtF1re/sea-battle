@@ -30,3 +30,5 @@ In the development of this chic game involved:
 + [**Pilinko Nikita**](https://vk.com/mineralsfree)
 
 In the future, it is planned to make a graphical interface and port the game to all platforms
+
+#### [Download last version](https://github.com/N1ghtF1re/sea-battle/releases/tag/v1.0)

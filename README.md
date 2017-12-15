@@ -5,7 +5,7 @@ Sea Battle - it's a console implementation of a popular game created by three st
 Getting started
 --------------------
 To start playing, you need to post SEABATTLE.exe and player1.txt with
-player2.txt in one folder. player1.tht and player2.tht must be filled with the location of the ships (M - sea, K - ship). Location example:
+player2.txt in one folder. player1.txt and player2.txt must be filled with the location of the ships (M - sea, K - ship). Location example:
 
 ```
 KMMKMMKMMK

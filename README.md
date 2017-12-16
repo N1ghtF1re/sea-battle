@@ -1,6 +1,6 @@
 Sea Battle
 --------------------
-Sea Battle - it's a console implementation of a popular game created by three students per pair as a laboratory work in Delphi
+Sea Battle - it's a console implementation of a popular game created by three students for a lesson as a laboratory work in Delphi
 
 Getting started
 --------------------
